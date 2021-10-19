@@ -1,5 +1,7 @@
 ## Bot Tovarishch
-Simple chat bot.I call him Tovarishch.
+Simple chat bot.
+
+> I called him Tovarishch.
 
 This was made on track: "Python for Beginners" by JetBrains academy.
 ## Technologies

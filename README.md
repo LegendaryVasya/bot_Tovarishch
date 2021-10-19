@@ -1,8 +1,8 @@
 ## Bot Tovarishch
-Simple chat bot
+Simple chat bot.I call him Tovarishch.
 
 This was made on track: "Python for Beginners" by JetBrains academy.
-##Technologies
+## Technologies
 Project is created with:
 * PyCharm Professional: 2021.2.1
 * Python 3.9
